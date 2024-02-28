@@ -1,0 +1,10 @@
+Exercicio de estrutura de dados: Pilha + Fila
+
+-crie um programa em Java que seja capaz de enfileirar um objeto do tipo Pacote
+-a class "pacote" deverá ter um atributo do tipo inteiro que irá guardar a numeração do pacote 
+-as numerações podem ser 1, 2 ou 3
+-crie uma estrtura de repetição para receber pelo menos 10 pacotes na fila
+-voce pode randomizar a numeração do pacote ou receber via Scanner
+-apos enfileirar todos os pacotes, os mesmos devem ser distribuidos em 3 pilhas distintas
+-ao finalizar, crie uma class chamada "Impressora" com o metodo estatico imprimir que recebera uma pilha
+e imprimirá ela verificando assim se foi distribuido corretamente
